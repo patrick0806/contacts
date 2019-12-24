@@ -1,4 +1,4 @@
-# agenda_contatos
+# Contact Book
 
 Contact book developed in flutter.
 With a calendar you can register, change and delete contacts and add a photo of the content straight from the gallery.
